@@ -106,5 +106,10 @@ namespace pp_lab2_3
             if (sTable.Columns[colName].DataType.Name == "DateTime")
                 textBox1.Text = "ГОД/МЕСЯЦ/ДЕНЬ";
         }
+
+        private void TableView_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

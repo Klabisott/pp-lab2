@@ -273,6 +273,7 @@ namespace pp_lab2_3
             this.Controls.Add(this.dataGridView1);
             this.Name = "TableView";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.TableView_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.carsBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pPLab22DataSetBindingSource)).EndInit();
