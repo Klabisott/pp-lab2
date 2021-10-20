@@ -1,0 +1,14 @@
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\bin\Debug\PP Lab 2 (2).mdf
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\bin\Debug\PP Lab 2 (2)_log.ldf
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\bin\Debug\pp lab2 3.exe.config
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\bin\Debug\pp lab2 3.exe
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\bin\Debug\pp lab2 3.pdb
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\obj\Debug\pp lab2 3.csproj.AssemblyReference.cache
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\obj\Debug\pp_lab2_3.Properties.Resources.resources
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\obj\Debug\pp lab2 3.csproj.GenerateResource.cache
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\obj\Debug\pp lab2 3.csproj.CoreCompileInputs.cache
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\obj\Debug\pp lab2 3.exe
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\obj\Debug\pp lab2 3.pdb
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\obj\Debug\pp_lab2_3.ChooseTable.resources
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\obj\Debug\pp_lab2_3.TableView.resources
+C:\Users\Klabisot\source\repos\pp lab2 3\pp lab2 3\obj\Debug\pp_lab2_3.Result.resources
